@@ -38,3 +38,7 @@ int i[10];
 func1(i); 
 }
 ```
+
+[[Matrizes Multidimensionais]]
+[[Matrizes de Strings]]
+[[Matrizes de ponteiros]]
