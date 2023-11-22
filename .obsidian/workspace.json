@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C - Lang/Ponteiros de funções.md",
+                "file": "C - Lang/Matrizes Multidimensionais.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fb1c647ec1b24fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C - Lang/Algoritimos Basicos em C/Algoritimos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "right": {
     "id": "bc2d8e75f55309b4",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C - Lang/Ponteiros de funções.md",
+                "file": "C - Lang/Algoritimos Basicos em C/Algoritimos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C - Lang/Ponteiros de funções.md",
+                "file": "C - Lang/Algoritimos Basicos em C/Algoritimos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C - Lang/Ponteiros de funções.md"
+                "file": "C - Lang/Algoritimos Basicos em C/Algoritimos.md"
               }
             }
           }
@@ -147,20 +161,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8910a30ddadd06a0",
+  "active": "0fb1c647ec1b24fa",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-11-10 10.53.47.excalidraw.md",
-    "C - Lang/Ponteiros de funções.md",
-    "C - Lang/Ponteiros.md",
-    "C - Lang/Matrizes de ponteiros.md",
-    "C - Lang/Matrizes.md",
     "C - Lang/C - node.md",
-    "C - Lang/Strings.md",
-    "C - Lang/aritmeticaponteiros.png",
+    "C - Lang/Algoritimos Basicos em C/Algoritimos.md",
+    "C - Lang/Algoritimos Basicos em C",
+    "C - Lang/Untitled.md",
+    "C - Lang/Alocacao dinamica.md",
     "C - Lang/Matrizes Multidimensionais.md",
+    "C - Lang/Strings.md",
+    "C - Lang/Ponteiros de funções.md",
+    "C - Lang/Matrizes de ponteiros.md",
+    "C - Lang/Indexação de ponteiros.md",
+    "Excalidraw/Drawing 2023-11-10 10.53.47.excalidraw.md",
+    "C - Lang/Ponteiros.md",
+    "C - Lang/Matrizes.md",
+    "C - Lang/aritmeticaponteiros.png",
     "C - Lang/Matrizes de Strings.md",
     "C - Lang/c-multimensionalimages.png",
-    "C - Lang/Indexação de ponteiros.md",
     "C - Lang/Captura de ecrã de 2023-11-10 11-11-53.png",
     "Excalidraw",
     "Neural Cortex Index.md",
